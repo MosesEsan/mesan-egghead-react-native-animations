@@ -12,5 +12,6 @@ React Native Animations Course by Egghead.io. https://egghead.io/courses/real-wo
 Create a Twitter Moments clone with a horizontal parallax image scrolling effect using Animated.event, and interpolation to make the effect work.
 <br/>
 **Video:** [Link](https://egghead.io/lessons/react-create-a-horizontal-parallax-scrollview-in-react-native#/tab-transcript).
+<br/>
 **Demo**
 <img src="https://github.com/MosesEsan/mesan-egghead-react-native-animations/blob/master/videos/gif/lesson1.gif" alt="Lesson 1" height="500" width="300" align="left">
