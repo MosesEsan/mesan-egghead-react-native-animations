@@ -15,13 +15,13 @@ import Moment from './moment'
 const {width, height} = Dimensions.get("window");
 
 const Images = [
-    {image: require('./images/vodka-cranberry-drink_300.jpg'), title: "Vodka Cran"},
+    {image: require('./images/vodka.jpg'), title: "Vodka Cran"},
     {
         image: require('./images/an-old-fashioned-with-a-surprising-design-specially-for-you-as-the-latest-Old-Fashion-collection-12.jpg'),
         title: "Old Fashion"
     },
-    {image: require('./images/Moscow-Mule-new.jpg'), title: "Vodka Cran"},
-    {image: require('./images/strawberry.jpg'), title: "Strawberry Daiqyu"},
+    {image: require('./images/Moscow-Mule-new.jpg'), title: "Mule"},
+    {image: require('./images/strawberry.jpg'), title: "Strawberry Daiquiri"},
 
 ];
 const getInterpolate = (animatedScroll, i, imageLength) => {

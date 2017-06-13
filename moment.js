@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     },
     title: {
         backgroundColor: "transparent",
-        fontSize: 30,
+        fontSize: 20,
         color: "#fff",
         textAlign: "center"
     }
